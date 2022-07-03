@@ -1,5 +1,5 @@
 # CPU-Scheduling-Simulator
-##implement scheduling algorithms in :
+implement scheduling algorithms in :
 1.	Highest response ration next (HRRN) [Non-preemptive]. 
 2.	Shortest remaining time first (SRTF) [Preemptive]. 
 For each Algorithm: 
